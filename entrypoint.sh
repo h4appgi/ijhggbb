@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'0f3155ac-678e-4c5e-867f-a7e60c2b718e'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://sixsix-hjgjhulu.b4a.run/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
